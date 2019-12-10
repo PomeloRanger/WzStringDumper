@@ -51,8 +51,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\MapleLib\MapleLib.csproj">
-      <Project>{28aab36d-942e-4476-a000-0e9de380f390}</Project>
+    <ProjectReference Include="..\MapleLib\MapleLib.csproj">
+      <Project>{9db1c8e5-1616-4af3-a80e-727719123595}</Project>
       <Name>MapleLib</Name>
     </ProjectReference>
   </ItemGroup>

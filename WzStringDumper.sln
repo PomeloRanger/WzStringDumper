@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 16.0.29519.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WzStringDumper", "WzStringDumper.csproj", "{08D1CE8A-81C4-46BF-860E-E82E1B4707F2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9DB1C8E5-1616-4AF3-A80E-727719123595} = {9DB1C8E5-1616-4AF3-A80E-727719123595}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapleLib", "..\MapleLib\MapleLib.csproj", "{9DB1C8E5-1616-4AF3-A80E-727719123595}"
 EndProject
